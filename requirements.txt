@@ -1,0 +1,5 @@
+nltk
+chardet
+idna
+requests
+certifi
